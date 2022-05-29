@@ -12,14 +12,14 @@ This project was built by a team of 6 developers in 5 Days.
 eBay Inc. is an American multinational e-commerce company based in San Jose, California, that facilitates consumer-to-consumer and business-to-consumer sales through its website. eBay was founded by Pierre Omidyar in 1995, and became a notable success story of the dot-com bubble.
 </p>
 
-###Credits
+### Credits
 ___
 * Images: [ebay.com](https://www.ebay.com/)
 * Content & Data: [ebay.com](https://www.ebay.com/)
 * Icons: [Bootstrap Icons](https://icons.getbootstrap.com/)
 * References: [MDN Docs](https://developer.mozilla.org/en-US/ ) | [W3Schools](https://www.w3schools.com/) | [Glider JS](https://nickpiscitelli.github.io/Glider.js/)
 
-###Tech-Stack
+### Tech-Stack
 ___
 
 * HTML 5
